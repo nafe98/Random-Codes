@@ -1,0 +1,7 @@
+import os
+path = os.chdir("je file e image gula ase") 
+i=0
+for file in os.listdir(path):
+    new_file = "je nam diba{}.jpg".format(i)
+    os.rename(file,new_file)
+    i=i+1
