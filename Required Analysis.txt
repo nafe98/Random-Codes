@@ -1,0 +1,14 @@
+
+1. Visuals
+2. Descriptive Analysis of the Variables **FHM**
+3. Data Source and Variables **FHM**
+4. Methodology, why considering that particular model, limitations, output results
+5. Model Selection and Accuracy
+6. Conclusion and Recommendation
+
+
+
+Our Approach:
+
+Forecasting Unemployment for next 10 years with exogenous and without exogeneous values 
+
