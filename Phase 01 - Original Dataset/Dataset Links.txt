@@ -1,0 +1,23 @@
+**Independent Variable**
+Average Price: Gasoline
+https://fred.stlouisfed.org/series/APU000074714
+
+Consumer Price Index
+https://fred.stlouisfed.org/series/CPIAUCSL
+
+Producer Price Index
+https://fred.stlouisfed.org/series/PPIACO
+
+Gross Domestic Product
+https://fred.stlouisfed.org/series/GDP
+
+Personal Income
+https://fred.stlouisfed.org/series/PI
+
+Interest Rates
+https://fred.stlouisfed.org/series/IRLTLT01USM156N
+
+
+**Dependent Variable**
+Auto Production
+https://fred.stlouisfed.org/series/G17MVSFAUTOS
